@@ -2,9 +2,9 @@
 
 ## Shoppingmall
 
-### 기간 : 2022.10.21 ~ 2022.10.28
+### 기간 : 2022.8.15 ~ 2022.8.22
 
-### 개발자 : 주병현
+### 개발자 : 주병현,안주영, 장지원
 
 ### 본인 역할
 
@@ -32,11 +32,7 @@
 
 - **프론트**
 
-  - 로그인페이지
-
-  - 회원가입 페이지
-
-  - 자유게시판 페이지
+  - 메인 페이지
 
   - 장바구니 페이지
 
@@ -65,17 +61,7 @@
 
 ### **Scripts**
 
-#### client
-
-`cd project`
-
-npm start
-
-#### backend
-
-`cd backend`
-
-npm start
+`npm start`
 
 ---
 
@@ -176,25 +162,3 @@ https://cuddly-petroleum-f3d.notion.site/ad3b8b0e0db1451d9fe62660d1a5378c
 ## 회의록들
 
 https://cuddly-petroleum-f3d.notion.site/2f508307056d4af8afbf3bf35a4b776e?v=f4d177d3c9054c1f9457342a02246a57
-
-## skill stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mysql-1572B6?style=flat&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JsonWebToken-F05032?style=flat&logo=JsonWebToken&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
-</p>
- 
-<p>
-
-</p>
-
-<p>
-
-</p>

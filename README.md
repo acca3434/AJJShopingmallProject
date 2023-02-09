@@ -77,8 +77,9 @@
 <img src="https://img.shields.io/badge/Mysql-2496ED?style=for-the-badge&logo=Mysql&logoColor=black"> 
 <img src="https://img.shields.io/badge/Sequelize-2496ED?style=for-the-badge&logo=Sequelize&logoColor=black"> 
 <img src="https://img.shields.io/badge/Express-363636?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-F16822?style=for-the-badge&logo=Node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/JWT-FF9900?style=for-the-badge&logo=JWT&logoColor=black">
+<img src="https://img.shields.io/badge/EJS-FF9900?style=for-the-badge&logo=EJS&logoColor=black">
 
 ---
 

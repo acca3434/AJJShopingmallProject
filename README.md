@@ -44,22 +44,24 @@
 - [**개요**](https://github.com/acca3434/AJJShopingmall#%EA%B0%9C%EC%9A%94)
 - [**사용기술**](https://github.com/acca3434/AJJShopingmall#%EC%82%AC%EC%9A%A9-%EA%B8%B0%EC%88%A0)
   - [전체 데이터베이스](https://github.com/acca3434/AJJShopingmall#%EC%A0%84%EC%B2%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
-    - [메인 페이지](https://github.com/acca3434/AJJShopingmall#%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80
+  - [메인 페이지](https://github.com/acca3434/AJJShopingmall#%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80
 )
-    - [안주영 페이지 클릭](https://github.com/acca3434/AJJShopingmall#%EC%95%88%EC%A3%BC%EC%98%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%B4%EB%A6%AD
+  - [안주영 페이지 클릭](https://github.com/acca3434/AJJShopingmall#%EC%95%88%EC%A3%BC%EC%98%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%B4%EB%A6%AD
 )
-    - [주병현 페이지 클릭](https://github.com/acca3434/AJJShopingmall#%EC%A3%BC%EB%B3%91%ED%98%84-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%B4%EB%A6%AD)
-    - [장지원 페이지 클릭](https://github.com/acca3434/AJJShopingmall#%EC%9E%A5%EC%A7%80%EC%9B%90-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%B4%EB%A6%AD)
-    - [회원가입 페이지](https://github.com/acca3434/AJJShopingmall#%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%8E%98%EC%9D%B4%EC%A7%80)
-    - [로그인 페이지](https://github.com/acca3434/AJJShopingmall#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80)
-    - [로그인 후 페이지(JWT 로그인 유지)](https://github.com/acca3434/AJJShopingmall#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9B%84-%ED%8E%98%EC%9D%B4%EC%A7%80jwt-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9C%A0%EC%A7%80)
-    - [유저 베스트 검색 실시간 페이지](https://github.com/acca3434/AJJShopingmall#%EC%9C%A0%EC%A0%80-%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EA%B2%80%EC%83%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%8E%98%EC%9D%B4%EC%A7%80)
-    - [출석체크 페이지](https://github.com/acca3434/AJJShopingmall#%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC-%ED%8E%98%EC%9D%B4%EC%A7%80)
-    - [챗봇 페이지](https://github.com/acca3434/AJJShopingmall#%EC%B1%97%EB%B4%87-%ED%8E%98%EC%9D%B4%EC%A7%80)
-    - [장바구니 리모콘 페이지](https://github.com/acca3434/AJJShopingmall#%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%A6%AC%EB%AA%A8%EC%BD%98-%ED%8E%98%EC%9D%B4%EC%A7%80)
-    - [장바구니 기능](https://github.com/acca3434/AJJShopingmall#%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EA%B8%B0%EB%8A%A5)
-    - [기타 파일](https://github.com/acca3434/AJJShopingmall#%EA%B8%B0%ED%83%80-%ED%8C%8C%EC%9D%BC)
- 
+  - [주병현 페이지 클릭](https://github.com/acca3434/AJJShopingmall#%EC%A3%BC%EB%B3%91%ED%98%84-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%B4%EB%A6%AD)
+  - [장지원 페이지 클릭](https://github.com/acca3434/AJJShopingmall#%EC%9E%A5%EC%A7%80%EC%9B%90-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%B4%EB%A6%AD)
+  - [회원가입 페이지](https://github.com/acca3434/AJJShopingmall#%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%8E%98%EC%9D%B4%EC%A7%80)
+  - [로그인 페이지](https://github.com/acca3434/AJJShopingmall#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80)
+  - [로그인 후 페이지(JWT 로그인 유지)](https://github.com/acca3434/AJJShopingmall#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9B%84-%ED%8E%98%EC%9D%B4%EC%A7%80jwt-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9C%A0%EC%A7%80)
+  - [유저 베스트 검색 실시간 페이지](https://github.com/acca3434/AJJShopingmall#%EC%9C%A0%EC%A0%80-%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EA%B2%80%EC%83%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%8E%98%EC%9D%B4%EC%A7%80)
+  - [출석체크 페이지](https://github.com/acca3434/AJJShopingmall#%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC-%ED%8E%98%EC%9D%B4%EC%A7%80)
+  - [챗봇 페이지](https://github.com/acca3434/AJJShopingmall#%EC%B1%97%EB%B4%87-%ED%8E%98%EC%9D%B4%EC%A7%80)
+  - [장바구니 리모콘 페이지](https://github.com/acca3434/AJJShopingmall#%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%A6%AC%EB%AA%A8%EC%BD%98-%ED%8E%98%EC%9D%B4%EC%A7%80)
+  - [장바구니 기능](https://github.com/acca3434/AJJShopingmall#%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EA%B8%B0%EB%8A%A5)
+- [**기타 파일**](https://github.com/acca3434/AJJShopingmall#%EA%B8%B0%ED%83%80-%ED%8C%8C%EC%9D%BC)
+  - [안주장 쇼핑몰의 정의](https://github.com/acca3434/AJJShopingmall#%EC%95%88%EC%A3%BC%EC%9E%A5-%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%98-%EC%A0%95%EC%9D%98)
+  - [구현한기능](https://github.com/acca3434/AJJShopingmall#%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5)
+  - [회의록들](https://github.com/acca3434/AJJShopingmall#%ED%9A%8C%EC%9D%98%EB%A1%9D%EB%93%A4)
 ---
 
 ## **개요**

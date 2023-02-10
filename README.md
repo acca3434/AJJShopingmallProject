@@ -230,3 +230,8 @@ https://cuddly-petroleum-f3d.notion.site/ad3b8b0e0db1451d9fe62660d1a5378c
 ## 회의록들
 
 https://cuddly-petroleum-f3d.notion.site/2f508307056d4af8afbf3bf35a4b776e?v=f4d177d3c9054c1f9457342a02246a57
+
+# 힘들었던 점
+
+
+

@@ -22,7 +22,7 @@
 
   - Mysql을 이용한 회원가입 구현
 
-- ** Mysql설계 **
+- **Mysql설계**
 
   - 로그인 : 로그인에 필요한 쇼핑몰 유저 저장
 
@@ -62,6 +62,7 @@
   - [안주장 쇼핑몰의 정의](https://github.com/acca3434/AJJShopingmall#%EC%95%88%EC%A3%BC%EC%9E%A5-%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%98-%EC%A0%95%EC%9D%98)
   - [구현한기능](https://github.com/acca3434/AJJShopingmall#%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5)
   - [회의록들](https://github.com/acca3434/AJJShopingmall#%ED%9A%8C%EC%9D%98%EB%A1%9D%EB%93%A4)
+- [힘들었던 점](https://github.com/acca3434/AJJShopingmall#%ED%9E%98%EB%93%A4%EC%97%88%EB%8D%98-%EC%A0%90)
 ---
 
 ## **개요**

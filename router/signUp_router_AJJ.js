@@ -22,13 +22,13 @@ router.post("/signUp", (req, res) => {
       })
         .then((e) => {
           let userName = "회원가입이 완료되었습니다";
-          let errorCode = "";
+          let errorCode = 200;
           res.render("main_AJJ", { data: { userName }, errorCode });
         })
         .catch((e) => {
           console.log(err);
           let userName = "이미 중복된 값이 있습니다";
-          let errorCode = "";
+          let errorCode = 400;
           res.render("main_AJJ", { data: { userName }, errorCode });
         });
     }

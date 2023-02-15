@@ -1,6 +1,6 @@
 const Sql = require("sequelize");
 
-// ㅜ 회원의 출석 체크 테이블
+// ㅜ 회원들이 검색한 베스트 아이템 테이블
 class BestItem extends Sql.Model {
   static init(sequelize) {
     return super.init(

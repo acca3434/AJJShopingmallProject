@@ -1,6 +1,8 @@
-{
+{ "homepage": "https://acca3434.github.io/AJJShopingmallProject",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
